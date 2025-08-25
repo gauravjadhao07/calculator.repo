@@ -1,7 +1,7 @@
         .calculator-body{
           height: 300px;
           width: 250px;
-          background-color: #3d3d5c;
+          background-color: #8494a0;
           margin: 20px auto;
           border-radius: 10px;
           padding: 20px;
@@ -48,7 +48,7 @@
         }
 
         .btn-equals{
-            background-color: #ff6348;
+            background-color: #83816f;
             height: 70px;
             color: #fff;
         }
